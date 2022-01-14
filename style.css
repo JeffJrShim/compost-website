@@ -47,6 +47,7 @@ div.gallery {
   div.desc:h2 {
       color:white;
       font-family:Montserrat;
+      text-align: center;
   }
 
 .content {
