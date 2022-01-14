@@ -10,26 +10,8 @@ h1 {
     color: white;
 }
 
-.header {
-    background-image: url(img/banner.png);
-    padding: 50px;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    font-size: x-large;
-    text-shadow: 2px 2px #000000;
-}
-.header2 {
-    background-image: url(img/banner.png);
-    padding: 50px;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    font-size: x-large;
-    text-shadow: 2px 2px #000000;
-}
-
-
 .body {
-    color:white;
+    color:	#052d0a;
     font-size:xx-large;
     text-align:center;
     font-family:Roboto;
