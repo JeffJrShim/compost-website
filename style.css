@@ -92,3 +92,8 @@ h2{
     font-family: 'Montserrat';
     text-align:justify;
   }
+  ul {
+    text-align: justify;
+    color: white;
+    font-family: 'Montserrat'
+  }
