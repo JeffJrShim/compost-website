@@ -106,5 +106,6 @@ h2{
   }
   p {
     color: white;
-    font-family: 'Montserrat' ;
+    font-family: 'Montserrat';
+    text-align:justify;
   }
