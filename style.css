@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
 body {
-    background-color: rgb(7, 31, 59);
+    background-color:#052d0a;
 }
 
 h1 {
@@ -10,8 +10,9 @@ h1 {
     color: white;
 }
 
+
 .body {
-    color:	#052d0a;
+    color:white;
     font-size:xx-large;
     text-align:center;
     font-family:Roboto;
